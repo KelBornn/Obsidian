@@ -1,0 +1,22 @@
+- **Salutation**
+- **Prière de reconnaissance**
+	- Mots clé : Prière, Remercier Dieu, Sentiments, affections, Amour, Connaissance, Discernement.
+- **Nouvelle de Paul et de son ministère**
+	- Mots clé : Epreuve, Prison, Rivalité, Jalousie, Joie, Assurance, Progrès.
+- **Le combat pour la foi**
+	- Mots clé : Vie digne de l'évangile, Souffrance.
+- **Aimer, à l'aide du Christ**
+	- Mots clé : Réconfort, Unité dans l'amour et la pensée,  
+- **Faire fructifier son salut**
+	- Mots clé : Crainte, Dieu agit, pureté, Irréprochabilité, Porter la parole au monde, Course, Joie. 
+- **L'envoie de Timothée et d'Epaphrodite**
+	- Mots clé : Dévotion, Confiance, Travailler à l'évangile
+- **L'important, c'est Christ**
+	- Mots clé : Joie total dans le Seigneur, Circoncision, Tout abandonner pour Christ, Perfection.
+- **Courir vers le but**
+	- Mots clé : Perfection, Progressions, Regret, Regarder devant, Citoyens des cieux.
+- **Recommandations**
+	- Mots clé : Service, Joie, Aimable, Prière, Nourrir l'esprit.
+- **Reconnaissance de Paul**
+	- Mots clé : Fruits, Pauvreté, Minimalisme, Confiance dans le Seigneur, Générosité.
+- **Salutation**

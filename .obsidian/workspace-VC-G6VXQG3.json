@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "d3c8aac2c6ffd960",
+    "type": "split",
+    "children": [
+      {
+        "id": "24083461dca0e202",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d34221c54bf02476",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Travail/Zabbix/Exemple.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "43146203e4ae2714",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d5b503dd327133a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d8829ae66d14f2c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "533315cfd69b01a2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c8663694471f14c2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297.5
+  },
+  "right": {
+    "id": "69fca178efbad63a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3b538d1ca094dac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d8e27b7c906a409",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Travail/Zabbix/Exemple.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "85c867e695909439",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Travail/Zabbix/Exemple.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a78e8baf08e46201",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d231a3beaf83d3b5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Travail/Zabbix/Exemple.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "d34221c54bf02476",
+  "lastOpenFiles": [
+    "Travail/Zabbix/Main.md",
+    "Travail/Zabbix/Hosts.md",
+    "Travail/Zabbix/Exemple.md",
+    "Travail/Zabbix/zabbix-Cas Agence.drawio.png",
+    "zabbix-Cas Agence.drawio.svg.md",
+    "zabbix-Cas Agence.drawio.svg",
+    "Travail/Zabbix/Template.md",
+    "Travail/Zabbix/Trends.md",
+    "Travail/Zabbix"
+  ]
+}

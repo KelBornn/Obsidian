@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "13e75526ff795212",
+    "type": "split",
+    "children": [
+      {
+        "id": "07e1658e0b297199",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ff5ef6d10e9bb8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Perso/Bible/Etude Biblique/Etude du 18-05-2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a9a3b8c7489cd555",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fff24df4c699675",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85fa3f7f8a66f444",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8cdc84220ae9c394",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "64bb7e1da4c4a1ef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5204229193b1e715",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ff697b74f0f2a1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36c8413f0c41d9bd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Perso/Bible/Etude Biblique/Etude du 18-05-2023.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "824aef61933f63ab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Perso/Bible/Etude Biblique/Etude du 18-05-2023.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3e526a16b115c0ac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "52feea8ca1d25c05",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Perso/Bible/Etude Biblique/Etude du 18-05-2023.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "4ff5ef6d10e9bb8d",
+  "lastOpenFiles": [
+    "Perso/Bible/Obsidian",
+    "Perso/Développement personnel/Pureté et Gestion de son temps.md",
+    "Perso/Bible/Livres Biblique/Philippiens.md",
+    "Perso/Bible/Etude Biblique/Etude du 18-05-2023.md",
+    "Perso/Bible/Thèmes/Pureté et Gestion de son temps.md",
+    "Perso/Bible/Livres Biblique/Ephésiens.md",
+    "Perso/Bible/Livres Biblique",
+    "Perso/Bible/Etude Biblique",
+    "Perso/Bible/Thèmes",
+    "Travail/Zabbix/Main.md",
+    "Travail/Zabbix/zabbix-Cas Agence.drawio.png",
+    "Travail/Zabbix/Exemple.md",
+    "Travail/Zabbix/Template.md",
+    "Travail/Zabbix/Trends.md",
+    "Travail/Zabbix/Hosts.md",
+    "Travail/Zabbix",
+    "2023-05-14.md",
+    "Sans titre.canvas",
+    "Perso/Développement personnel",
+    "Perso/Bible",
+    "Sans titre",
+    "Travail",
+    "Perso"
+  ]
+}
